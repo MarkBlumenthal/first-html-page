@@ -1,0 +1,32 @@
+.catsenses {
+    margin-left: 50px;
+}
+
+.cat_pic {
+    text-align: center;
+    padding-top: 15px;
+    
+}
+
+img {
+    border: solid;
+    border-color: rgb(236, 123, 71);
+    border-style: solid;
+    border-width: 10px;
+}
+
+.the_lions {
+    padding-top: 40px;
+}
+
+.char {
+    text-align: center;
+    border: solid;
+    color: red;
+    display: block;  
+}
+
+.lion-pic {
+text-align: center;
+padding-top: 100px;
+}
