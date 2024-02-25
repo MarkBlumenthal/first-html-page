@@ -19,11 +19,21 @@ img {
     padding-top: 40px;
 }
 
-.char {
+h5 {
     text-align: center;
     border: solid;
     color: red;
-    display: block;  
+    display: block;
+    padding: 0;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+th, td {
+    border: 1px solid black; 
+    margin: 5px 0 5px 0;
 }
 
 .lion-pic {
